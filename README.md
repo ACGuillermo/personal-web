@@ -1,8 +1,8 @@
 # Personal WebSite
 
 ## TODOS:
-- [ ] Install ubuntu, docker, nginx.
-- [ ] Plan initial backend infrastructure with docker. 
+- [x] Install ubuntu, docker, nginx.
+- [x] Plan initial backend infrastructure with docker. 
 - [ ] Initial frontend.
 - [ ] Automatize deployment.
 - [ ] Kubernetes.
