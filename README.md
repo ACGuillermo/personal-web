@@ -3,8 +3,8 @@
 ## TODOS:
 - [x] Install ubuntu, docker, nginx.
 - [x] Plan initial backend infrastructure with docker. 
-- [ ] Initial frontend.
+- [x] Initial frontend.
 - [ ] Automatize deployment.
 - [ ] Kubernetes.
-- [ ] Expand frontend.
+- [x] Expand frontend.
 
